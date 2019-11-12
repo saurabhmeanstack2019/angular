@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = [[module.i, " body\n  {\n    font-family: verdana;\n    margin:0;\n    padding: 2%;\n  }\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9zdHlsZXMuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJDQUFDOztJQUVHLG9CQUFvQjtJQUNwQixRQUFRO0lBQ1IsV0FBVztFQUNiIiwiZmlsZSI6InNyYy9zdHlsZXMuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiIGJvZHlcbiAge1xuICAgIGZvbnQtZmFtaWx5OiB2ZXJkYW5hO1xuICAgIG1hcmdpbjowO1xuICAgIHBhZGRpbmc6IDIlO1xuICB9Il19 */", '', '']]
+module.exports = [[module.i, "body\n{\n\tmargin:0;\n\tfont-family: calibri;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9zdHlsZXMuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztDQUVDLFFBQVE7Q0FDUixvQkFBb0I7QUFDckIiLCJmaWxlIjoic3JjL3N0eWxlcy5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJib2R5XG57XG5cdG1hcmdpbjowO1xuXHRmb250LWZhbWlseTogY2FsaWJyaTtcbn0iXX0= */", '', '']]
 
 /***/ }),
 
@@ -557,7 +557,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\Lenovo\Desktop\class\angular\p1\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! D:\class\angular\site\src\styles.css */"./src/styles.css");
 
 
 /***/ })
